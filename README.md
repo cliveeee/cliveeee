@@ -20,7 +20,7 @@ Connect with me on:
 
 ## GitHub Stats  
 
-![Clive's GitHub stats](https://github-readme-stats.vercel.app/api?username=cliveeee&show_icons=true&count_private=true&theme=dark)
+![Clive's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=cliveeee&show_icons=true&count_private=true&theme=dark)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cliveeee&theme=dark)](https://github.com/cliveeee)
 
