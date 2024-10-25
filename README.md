@@ -1,7 +1,13 @@
+<div align="center">
 
 # Hi 👋, I'm Clive Chipunzi
 
 A passionate Junior Developer based in Perth
+
+</div>
+
+<div style="display: flex;">
+<div>
 
 🌱 I'm currently learning **Laravel & Flutter**
 
@@ -30,4 +36,10 @@ Languages and Tools:
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
 </p>
 
-<img align="right" alt="Developer Illustration" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+</div>
+
+<div align="right">
+<img align="right" alt="Developer Illustration" width="450" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+</div>
+
+</div>
