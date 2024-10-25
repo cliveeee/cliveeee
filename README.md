@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there%2C+I'm+Clive+Chipunzi+%F0%9F%91%8B;A+Full-Stack+Developer+and+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there%2C+I'm+Clive+Tendai+Chipunzi+%F0%9F%91%8B;A+Full-Stack+Developer+and+Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 <h2 align="center"> Building digital experiences with passion and precision 🚀</h2>
