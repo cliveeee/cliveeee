@@ -18,41 +18,14 @@
 - Exploring Cloud Architecture
 - Building scalable applications
 
-### 🎯 Lifetime Goals & Aspirations
-```javascript
-const lifeGoals = {
-  career: {
-    technical: [
-      "Build a Tech Company that Impacts Millions 🌍",
-      "Create Open Source Tools Used Industry-Wide ⚡",
-      "Mentor 100+ Junior Developers 👨‍🏫",
-      "Patent Original Tech Solutions 💡"
-    ],
-    personal: [
-      "Work Remotely from 20+ Countries 🌎",
-      "Achieve Work-Life Integration vs Balance",
-      "Build Passive Income Streams through Tech"
-    ]
-  },
-  impact: {
-    community: [
-      "Launch Coding Bootcamp in Zimbabwe 🏫",
-      "Create Tech Opportunities in Africa",
-      "Fund Tech Startups in Developing Nations"
-    ],
-    innovation: [
-      "Contribute to AI/ML Solutions",
-      "Develop Healthcare Tech Solutions",
-      "Pioneer EdTech Platforms"
-    ]
-  },
-  learning: {
-    "Never Stop Being a Student 📚",
-    "Master 5+ Programming Paradigms",
-    "Speak at Major Tech Conferences 🎤"
-  }
-};
-```
+### 🎯 Goals & Aspirations
+- Build a Tech Company that Impacts Millions 🌍
+- Create Open Source Tools Used Industry-Wide ⚡
+- Mentor 100+ Junior Developers 👨‍🏫
+- Patent Original Tech Solutions 💡
+- Develop Healthcare Tech Solutions
+      
+
 
 ### 💡 Fun Facts
 - I code in Vim because I can't figure out how to exit
