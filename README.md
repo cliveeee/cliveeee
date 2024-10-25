@@ -1,35 +1,69 @@
-cliveeee/README.md
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there%2C+I'm+Clive+Chipunzi+%F0%9F%91%8B;A+Full-Stack+Developer+and+Tech+Enthusiast" alt="Typing SVG" />
+</div>
 
-<div style="display: flex; justify-content: space-between; align-items: start;">
+<h2 align="center"> Building digital experiences with passion and precision 🚀</h2>
+
+<div align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Journey&align=center&lineCount=2&theme=github_dark&line1=laravel,Laravel,FF2D20;flutter,Flutter,02569B;firebase,Firebase,FFCA28;node.js,Node.js,339933;&line2=mongodb,MongoDB,47A248;react,React,61DAFB;tailwindcss,Tailwind,06B6D4;typescript,TypeScript,3178C6;" alt="My Tech Stack" />
+</div>
+
+<br/>
+
+<div style="display: flex;">
 <div>
 
-# Hi 👋, I'm Clive Chipunzi
+### 🌱 Currently Growing
+- Mastering Laravel & Flutter ecosystem
+- Exploring Cloud Architecture
+- Building scalable applications
 
-A passionate Junior Developer based in Perth
+### 🎯 2024 Goals
+- Contribute to Open Source
+- Launch 3 Full-Stack Applications
+- Master System Design Principles
 
-🌱 I'm currently learning more about Flutter
+### 💡 Fun Facts
+- I code in Vim because I can't figure out how to exit
+- I debug with print statements and I'm proud of it
+- My code runs on caffeine and determination
 
-📫 How to reach me iammcsaint@gmail.com
-
-⚡ Fun fact "Building amazing apps one bug at a time!"
-
-Connect with me:
-
-<a href="https://twitter.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" />
-</a>
-<a href="https://www.linkedin.com/in/clive-tendai-chipunzi" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" />
-</a>
-
-Languages and Tools:
-
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" height="40"/>
+### 🤝 Let's Connect
+<p align="left">
+  <a href="https://linkedin.com/in/clive-tendai-chipunzi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:iammcsaint@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://instagram.com/i_am_mcsaint" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
 
 </div>
 
-<img width="450" align="right" alt="Developer Illustration" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" />
-
+<div align="right">
+  <img align="right" width="400" src="https://raw.githubusercontent.com/ArslanYM/ArslanYM/main/pixel-jeff-matrix-s.gif" alt="Developer Illustration"/>
 </div>
+</div>
+
+<br/>
+
+<details>
+<summary>🎨 My Favorite Dev Quotes</summary>
+<br/>
+  
+> "The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie
+
+> "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+> "The best error message is the one that never shows up." - Thomas Fuchs
+
+</details>
+
+<div align="center">
+  <h2>🐍 Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cliveeee&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
